@@ -13,5 +13,5 @@ I'm a Software Engineering undergraduate...
 ## 📈 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kavinduumayanga/kavinduumayanga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/syfar2004/syfar2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
