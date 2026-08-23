@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineering undergraduate...
+I'm a Software Engineering undergraduate... And a game lover... 👾
 
 ## 💻 Technologies
 
