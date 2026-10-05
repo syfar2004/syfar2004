@@ -9,6 +9,7 @@ I'm a Software Engineering undergraduate... And a game lover... 👾
 - HTML/CSS
 - SQLite
 - Git
+- GD Script
 
 ## 📈 GitHub Contribution Snake
 
